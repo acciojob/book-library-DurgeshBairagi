@@ -7,6 +7,7 @@ h1{
 .book-library{
 	background-color:#ffffff;
 	text-align:center;
+	
 }
 .author{
 	color:#777777;
@@ -27,6 +28,9 @@ img{
 .title{
 	text-align:left;
 	margin-bottom:-15px;
+}
+.book{
+	background-color:#f8f8f8;
 }
 
 
